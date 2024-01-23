@@ -1,0 +1,54 @@
+h1, h2, h3, td {
+    color: #333;
+    font-family: Calibri;
+}
+
+input[type="text"], input[type="datetime-local"], input[type="number"] {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-family: Calibri;
+}
+
+a {
+    font-family: Calibri;
+}
+
+.Kustuta {
+    font-family: Calibri;
+    text-decoration: none;
+    color: #FF3939;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4C963F;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    font-family: Calibri;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #4D6A1A;
+}
+
+input[type="submit"] {
+    background-color: #487c4a;
+    color: #f6f6f6;
+    padding: 10px;
+    border: none;
+    width: 25%;
+    font-family: Calibri;
+}
